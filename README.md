@@ -1,4 +1,4 @@
-# test 1
+# Charify
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
